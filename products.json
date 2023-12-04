@@ -1,0 +1,78 @@
+{
+    "Products": {
+        "Laptop":{
+                "01": {
+                    "title": "Laptop gaming MSI GF63",
+                    "fee": "16.990",
+                    "review": "45",
+                    "score": "4.5",
+                    "imgPic": "https://product.hstatic.net/200000722513/product/841vn_fe2316bda6674878b8cc0a6832edd411_grande.png",
+                    "description": "MSI, một cái tên không còn quá xa lạ với game thủ chúng ta. Những sản phẩm từ nhà rồng luôn chiếm trọn sự yêu thích của người dùng từ thiết kế đến giá cả. Và nay, sẽ là chiếc laptop gaming sở hữu những đặc điểm trên với cái tên MSI GF63 12UC 887VN. ",
+                    "tax": "1.699",
+                    "delivery": "100"
+                },
+                "02": {
+                    "title": "Laptop gaming Acer Aspire 7",
+                    "fee": "18.990",
+                    "review": "45",
+                    "score": "4.5",
+                    "imgPic": "https://product.hstatic.net/200000722513/product/59mw_1fc0770aff944664ad1fe691b1a6cbc1_grande.png",
+                    "description": "Acer Aspire 7 A715 76G 59MW nằm trong phân khúc laptop gaming giá tốt dành cho học sinh, sinh viên. Tích hợp card đồ họa NVIDIA® GeForce RTX™ 2050 cho hiệu năng xử lý hình ảnh chất lượng. Ngoại hình thiết kế thon gọn, hiện đại và trọng lượng lý tưởng cho mọi sự di chuyển. Hứa hẹn đây sẽ là chiếc laptop cho sinh viên vừa học vừa chơi game giải trí hoàn hảo. ",
+                    "tax": "1.899",
+                    "delivery": "100"
+                },
+                "03": {
+                    "title": "Laptop gaming ASUS TUF Gaming F15",
+                    "fee": "19.990",
+                    "review": "45",
+                    "score": "4.5",
+                    "imgPic": "https://product.hstatic.net/200000722513/product/fx506he-hn377w_f6b8d1db81e0480f83649abff794d064_grande.png",
+                    "description": "Laptop gaming ASUS TUF Gaming F15 FX506HE HN377W thể hiện sức mạnh qua con chip Intel Core i7 Gen 11 đầy mạnh mẽ. Thiết kế thời thượng đậm chất gaming với một cách đầy tinh tế. Hoàn thiện từ ngoại hình đến cấu hình bên trong nâng cấp trải nghiệm chơi game của mọi game thủ. Hứa hẹn ASUS TUF Gaming F15 sẽ làm mưa làm gió trên thị trường laptop gaming năm nay. ",
+                    "tax": "1.999",
+                    "delivery": "100"
+                  },
+                  "04": {
+                    "title": "Laptop gaming Lenovo LOQ",
+                    "fee": "19.990",
+                    "review": "45",
+                    "score": "4.5",
+                    "imgPic": "https://product.hstatic.net/200000722513/product/da_e827ce24c6354081b82d196d619e6836_grande.png",
+                    "description": "Không còn đứng ngoài cho cuộc đua trong ngành laptop gaming, Lenovo đang dần cải thiện chất lượng của sản phẩm, không chỉ về thiết kế mà còn đó còn là hiệu năng và công nghệ bên trong. Chào mừng bạn đến với dòng sản phẩm laptop gaming Lenovo LOQ 15IRH8 82XV00D5VN.",
+                    "tax": "1.999",
+                    "delivery": "100"
+                  },
+                  "05": {
+                    "title": "Laptop Gaming Dell G15",
+                    "fee": "22.590",
+                    "review": "45",
+                    "score": "4.5",
+                    "imgPic": "https://product.hstatic.net/200000722513/product/g15-5511-i5_6fb23ec04c4f49f494011149bd627482_fd05549932b8481ea9106dedde6a4a14_grande.png",
+                    "description": "Laptop gaming Dell G15 là sản phẩm nằm trong phân khúc laptop gaming trên 20 triệu và là thế hệ chơi game tiếp theo của Dell. Vốn nổi tiếng với những chiếc laptop văn phòng thì nay Dell mang đến cho game thủ một lựa chọn mới đầy tính năng, cấu hình mạnh mẽ và đương đầu với vô số tựa game dễ dàng. ",
+                    "tax": "2.259",
+                    "delivery": "100"
+                  },
+                  "06": {
+                    "title": "Laptop Gaming HP VICTUS 16",
+                    "fee": "16.990",
+                    "review": "45",
+                    "score": "4.5",
+                    "imgPic": "https://product.hstatic.net/200000722513/product/p_gaming_hp_victus_16_e0177ax_4r0u9pa_4871a19b101c41e3a073e26a9767a174_fc9edd0d6dde428295f568ed1a6fee4c_grande.jpg",
+                    "description": "HP VICTUS là một trong những dòng laptop gaming đến từ HP bên cạnh HP Omen. Sở hữu thiết kế mỏng nhẹ, dễ dàng mang đi bất kỳ đâu.",
+                    "tax": "1.699",
+                    "delivery": "100"
+                  },
+                  "07": {
+                    "title": "Laptop gaming Gigabyte G5",
+                    "fee": "23.990",
+                    "review": "45",
+                    "score": "4.5",
+                    "imgPic": "https://product.hstatic.net/200000722513/product/top-gaming-gigabyte-g5-kf-e3vn333sh-1_8aff817b80a24809acb39e8db8b2f811_72f79966523348d9aecc90d1136edae9_grande.png",
+                    "description": "GIGABYTE, thương hiệu đi lên với những sản phẩm linh kiện máy tính chất lượng. Hướng đến thị trường gaming đang vô cùng sôi động, GIGABYTE còn mang đến những chiếc laptop gaming chất lượng. Và hôm nay chúng ta sẽ cùng tìm hiểu chiếc laptop với tên Gigabyte G5 KF E3VN333SH - một mẫu laptop gaming mới ra mắt và hứa hẹn khuấy đảo cộng đồng game thủ thời gian sắp tới.",
+                    "tax": "2.399",
+                    "delivery": "100"
+                  }
+              
+        }
+      
+    }
+  }
